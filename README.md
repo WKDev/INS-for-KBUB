@@ -1,4 +1,4 @@
-# Localization GPS+IMU Comm. Demo
+# INS for K-BUB
 ## Introduction
 It is INS System for Autonomous Car.
 
@@ -28,7 +28,10 @@ GPS | Ublox C94-M8P-2 (It supports any GPS in case your GPS qualifies NMEA proto
 IMU | E2BOX AHRS EBIMU-9DOFV5
 
 ## Changelog
-* v1.0.0  | Mar 14, 2022 Created
+<img src="/src/v101.png">
+* v1.0.2(Mar 17, 2022) | Another feature is preparing to deploy: GPS Map Overlay
+* v1.0.1(Mar 17, 2022) | New feature: now you see the realtime-imu data.
+* v1.0.0(Mar 14, 2022) | Created
 
 
 
